@@ -2,7 +2,8 @@
 `espanso-L0FF-custom-replacements` is holding [espanso](https://espanso.org) replaces commonly used pœtic license words/phrases used daily.
 
 The package was originally forked from:
-[github.com/timorunge/espanso-misspell-en](forked from timorunge/espanso-misspell-en) which also used:
+
+[../timorunge/espanso-misspell-en](https://github.com/timorunge/espanso-misspell-en) which also used:
 [github.com/client9/misspell](https://github.com/client9/misspell), as a source.
 
 ## License
